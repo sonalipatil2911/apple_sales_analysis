@@ -43,19 +43,15 @@ An analytical deep dive into 1 million+ Apple product sales using PostgreSQL. Th
 ## 🚀 Project Structure
 ├── sql/ 
 │   
-├── growth_analysis.sql 
+├── schemas.sql 
 │   
-├── dynamic_year_pivot.sql
+├── query_optimization.sql
 │   
-├── launch_period_segmentation.sql 
-│   
-├── claims_percentage.sql 
-├── docs/ 
-│    └── schema_reference.md
-├── images/ 
-│   └── banner.png 
-├── README.md 
-└── LICENSE
+├── apple_sales_insights.sql
+
+├── apple_store.jpg 
+
+├── README.md
 
 
 
